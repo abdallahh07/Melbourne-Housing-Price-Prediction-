@@ -54,8 +54,6 @@ Model Analysis & Visualization
 | CatBoostRegressor | 0.884 |
 | RandomForestRegressor | 0.858 |
 | GradientBoostingRegressor | 0.830 |
-| XGBRegressor | — |
-| LGBMRegressor | — |
 | LinearRegression | 0.791 |
 | Ridge | 0.791 |
 | Lasso | ~0.00 |
